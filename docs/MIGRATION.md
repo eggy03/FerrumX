@@ -61,13 +61,13 @@ version [![Maven Central Version](https://img.shields.io/maven-central/v/io.gith
 ### Additional Resources
 
 The migration guide does not include every single detail and does focus on all the new features introduced, such as
-the [MSFT Classes](https://eggy03.github.io/ferrumx-windows-documentation/io/github/eggy03/ferrumx/windows/mapping/network/package-summary.html)
+the [MSFT Classes](https://javadoc.io/doc/io.github.eggy03/ferrumx-windows/latest/io/github/eggy03/ferrumx/windows/mapping/network/package-summary.html)
 or
-the [Compound Entity Package](https://eggy03.github.io/ferrumx-windows-documentation/io/github/eggy03/ferrumx/windows/entity/compounded/package-summary.html)
+the [Compound Entity Package](https://javadoc.io/doc/io.github.eggy03/ferrumx-windows/latest/io/github/eggy03/ferrumx/windows/entity/compounded/package-summary.html)
 
 To know more about all the changes introduced, check out the:
 
-- [Javadocs](https://eggy03.github.io/ferrumx-windows-documentation)
+- [Javadocs](https://javadoc.io/doc/io.github.eggy03/ferrumx-windows)
 - [Examples](https://github.com/eggy03/ferrumx-windows-examples)
 - [Releases](https://github.com/eggy03/ferrumx-windows/releases)
 

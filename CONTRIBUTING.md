@@ -18,7 +18,7 @@ Before contributing, please make sure you have checked out the following:
 
 - [Project Readme](/README.md)
 - [Code of Conduct](/CODE_OF_CONDUCT.md)
-- [Javadocs](https://eggy03.github.io/ferrumx-windows-documentation/)
+- [Javadocs](https://javadoc.io/doc/io.github.eggy03/ferrumx-windows)
 - [Other Docs](/docs)
 - [Examples](https://github.com/eggy03/ferrumx-windows-examples)
 - [Existing Issues](https://github.com/eggy03/ferrumx-windows/issues)

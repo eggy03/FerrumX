@@ -579,7 +579,7 @@ public class Win32ProcessorExample {
 
 # References
 
-- [Javadocs](https://eggy03.github.io/ferrumx-windows-documentation/)
+- [Javadocs](https://javadoc.io/doc/io.github.eggy03/ferrumx-windows)
 - [Examples](https://github.com/eggy03/ferrumx-windows-examples)
 - [Microsoft Docs for Win32_Processor](https://learn.microsoft.com/en-us/windows/win32/cimwin32prov/win32-processor)
 - [Additional Helpful Docs from `powershell.one`](https://powershell.one/wmi/root/cimv2)

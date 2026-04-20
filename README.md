@@ -90,7 +90,7 @@ in [central](https://central.sonatype.com/artifact/io.github.eggy03/ferrumx-wind
 
 # Documentation
 
-- [Javadocs](https://eggy03.github.io/ferrumx-windows-documentation/)
+- [Javadocs](https://javadoc.io/doc/io.github.eggy03/ferrumx-windows)
 - [Developer Docs](/docs/DEVELOPER_DOCS.md)
 - [Migration Guide](/docs/MIGRATION.md)
 - [Examples](https://github.com/eggy03/ferrumx-windows-examples)
